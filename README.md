@@ -10,17 +10,22 @@ Unity 2D платформер.
 
 - First screen
 <p align="left">
- <img width="500px" src="https://img.hhcdn.ru/photo/780947981.jpeg?t=1743757461&h=ghLX7hWBRVF7rOntCXiipA" alt="qr"/>
+ <img width="500px" src="https://i.imgur.com/zVunw3p.jpeg" alt="qr"/>
 </p>
 
 - Second screen
   <p align="left">
- <img width="500px" src="https://img.hhcdn.ru/photo/780947993.jpeg?t=1743757461&h=7qKGVX2PDmOxSc0ohuP8jA" alt="qr"/>
+ <img width="500px" src="https://i.imgur.com/17ljIPH.jpeg" alt="qr"/>
   </p>
   
 - Third screen
   <p align="left">
- <img width="500px" src="https://img.hhcdn.ru/photo/780948005.jpeg?t=1743757461&h=3Vz5cu4DTKpR8ywMn6ReSg" alt="qr"/>
+ <img width="500px" src="https://i.imgur.com/wMnJxE5.jpeg" alt="qr"/>
+  </p>
+
+  - Fourth screen
+  <p align="left">
+ <img width="500px" src="https://i.imgur.com/2OTISey.jpeg" alt="qr"/>
   </p>
 
 
